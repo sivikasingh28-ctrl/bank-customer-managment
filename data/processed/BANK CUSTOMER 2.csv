@@ -1,0 +1,251 @@
+Customer_ID,City,Account_Type,Employment_Type,Mobile_Banking_User,Age,Monthly_Income,Tenure_Years,Monthly_Transactions,Credit_Score,Last_Transaction_Date,Avg_Monthly_Balance,Income_Band,Customer_Status
+C1175,Bengaluru,Salary,Self-Employed,Yes,56,53500.0,11.7,18,615.0,2026-01-24,59260,Medium Income,Healthy
+C1222,Mumbai,Savings,Retired,Yes,212,39500.0,6.6,27,724.0,2025-11-12,174890,Low Income,Healthy
+C1164,Delhi,Salary,Salaried,Yes,47,33500.0,15.1,14,680.0,2025-01-10,68070,Low Income,Healthy
+C1149,Mumbai,Savings,Retired,Yes,64,23500.0,6.8,19,681.0,2025-02-18,5850,Low Income,At Risk
+C1238,Delhi,Savings,Self-Employed,Yes,26,62500.0,8.0,30,654.0,2026-01-07,76860,Medium Income,Healthy
+C1151,Delhi,Current,Salaried,No,52,39500.0,6.6,22,658.0,2025-08-06,128640,Low Income,Healthy
+C1073,Lucknow,Savings,Salaried,Yes,40,19000.0,10.5,34,881.0,2025-05-02,101830,Low Income,Healthy
+C1079,Bengaluru,Savings,Student,Yes,20,10000.0,2.0,21,710.0,2026-02-16,63430,Low Income,Healthy
+C1150,Bengaluru,Savings,Salaried,Yes,22,59000.0,4.0,37,654.0,2025-06-27,47920,Medium Income,Healthy
+C1102,Lucknow,Salary,Self-Employed,Yes,53,42500.0,6.0,36,642.0,2026-03-05,52320,Medium Income,Healthy
+C1058,Delhi,Savings,Salaried,No,38,18000.0,16.8,26,714.0,2026-06-29,36820,Low Income,At Risk
+C1234,Mumbai,Salary,Self-Employed,No,28,49000.0,10.0,23,715.0,2025-03-07,53880,Medium Income,Healthy
+C1226,Mumbai,Savings,Retired,Yes,68,29000.0,13.6,34,836.0,2026-02-21,105740,Low Income,Healthy
+C1016,Bengaluru,Savings,Student,Yes,19,5500.0,1.0,33,739.0,2025-03-16,30690,Low Income,At Risk
+C1024,Mumbai,Salary,Self-Employed,Yes,29,31000.0,11.0,12,817.0,2026-10-02,139220,Low Income,Healthy
+C1237,Bengaluru,Salary,Salaried,No,24,25000.0,6.0,58,670.0,2026-07-03,66940,Low Income,Healthy
+C1049,Mumbai,Savings,Student,Yes,21,14000.0,3.0,56,691.0,2025-12-06,500,Low Income,At Risk
+C1120,Delhi,Salary,Salaried,No,27,63000.0,6.9,12,714.0,2025-02-27,85390,Medium Income,Healthy
+C1195,Delhi,Savings,Self-Employed,Yes,34,68500.0,4.7,16,775.0,2026-09-26,51150,Medium Income,Healthy
+C1247,Mumbai,Savings,Salaried,No,41,32500.0,9.3,22,866.0,2026-10-10,92240,Low Income,Healthy
+C1050,Bengaluru,Savings,Self-Employed,No,32,43500.0,14.0,43,743.0,2025-04-29,136130,Medium Income,Healthy
+C1094,Bengaluru,Salary,Student,Yes,23,8000.0,5.0,5,612.0,2026-07-06,98150,Low Income,Healthy
+C1202,Mumbai,Savings,Student,Yes,18,10000.0,0.5,12,676.0,2026-09-22,38290,Low Income,At Risk
+C1189,Kolkata,Savings,Salaried,Yes,48,65500.0,8.3,14,736.0,2025-12-06,43640,Medium Income,Healthy
+C1126,Mumbai,Salary,Self-Employed,Yes,48,,2.8,25,767.0,2026-09-08,500,Low Income,At Risk
+C1170,Delhi,Salary,Student,Yes,22,10500.0,1.8,31,696.0,2025-02-02,85050,Low Income,Healthy
+C1110,Delhi,Savings,Student,Yes,21,12500.0,3.0,12,781.0,2026-08-06,53600,Low Income,Healthy
+C1248,Lucknow,Salary,Retired,Yes,69,38000.0,12.7,33,773.0,2026-01-14,135630,Low Income,Healthy
+C1042,Mumbai,Savings,Salaried,Yes,36,63000.0,6.0,13,635.0,2025-01-13,80370,Medium Income,Healthy
+C1055,Mumbai,Savings,Salaried,Yes,53,33500.0,4.9,33,696.0,2026-08-04,500,Low Income,At Risk
+C1212,Bengaluru,Current,Student,No,19,8000.0,1.0,20,712.0,2025-04-12,49640,Low Income,Healthy
+C1115,Bengaluru,Current,Self-Employed,No,29,107500.0,4.9,19,658.0,2025-09-14,140900,High Income,Healthy
+C1181,Delhi,Savings,Student,No,23,6500.0,5.0,29,793.0,2025-12-18,102360,Low Income,Healthy
+C1187,Lucknow,Savings,Salaried,No,52,72000.0,9.8,34,711.0,2025-12-31,122150,Medium Income,Healthy
+C1182,Delhi,Salary,Salaried,Yes,23,89500.0,5.0,39,667.0,2024-11-30,95530,High Income,Healthy
+C1056,Kolkata,Salary,Retired,No,74,23000.0,3.1,14,,2026-10-18,58080,Low Income,Healthy
+C1246,Delhi,Salary,Salaried,Yes,32,80000.0,4.0,25,783.0,2026-01-07,132630,High Income,Healthy
+C1173,Kolkata,Savings,Salaried,Yes,39,51500.0,4.1,32,770.0,2026-06-11,144910,Medium Income,Healthy
+C1136,Delhi,Savings,Salaried,No,56,43500.0,9.6,19,783.0,2025-11-26,56160,Medium Income,Healthy
+C1067,Delhi,Salary,Self-Employed,Yes,61,63500.0,1.6,23,740.0,2026-10-20,107520,Medium Income,Healthy
+C1230,Mumbai,Current,Salaried,Yes,51,20000.0,5.9,26,757.0,2026-11-05,16100,Low Income,At Risk
+C1114,Mumbai,Current,Salaried,Yes,31,69000.0,7.6,24,648.0,2025-06-09,83600,Medium Income,Healthy
+C1040,Delhi,Current,Student,Yes,18,5000.0,0.5,18,631.0,2026-02-10,40510,Low Income,Healthy
+C1017,Bengaluru,Current,Self-Employed,Yes,60,49000.0,2.3,29,840.0,2025-08-23,83040,Medium Income,Healthy
+C1227,Lucknow,Savings,Salaried,Yes,54,25500.0,3.1,47,820.0,2025-10-15,77380,Low Income,Healthy
+C1130,Bengaluru,Salary,Student,Yes,24,13500.0,,33,708.0,2025-04-05,500,Low Income,At Risk
+C1157,Mumbai,Salary,Self-Employed,No,46,36000.0,5.7,23,596.0,2025-12-14,117610,Low Income,Healthy
+C1199,Delhi,Savings,Retired,No,76,38500.0,9.7,20,768.0,2026-08-26,116440,Low Income,Healthy
+C1221,Kolkata,Savings,Salaried,No,42,12500.0,6.5,18,744.0,2025-01-05,45830,Low Income,Healthy
+C1072,Delhi,Salary,Retired,Yes,60,37000.0,5.0,18,652.0,2026-06-23,37440,Low Income,At Risk
+C1203,Bengaluru,Savings,Self-Employed,Yes,28,31000.0,10.0,24,532.0,2026-06-02,18650,Low Income,At Risk
+C1196,Delhi,Savings,Student,No,22,10500.0,1.3,27,829.0,2024-11-30,4490,Low Income,At Risk
+C1013,Bengaluru,Savings,Student,No,23,8000.0,5.0,12,700.0,2026-10-05,6900,Low Income,At Risk
+C1087,Delhi,Salary,Salaried,Yes,29,29000.0,3.9,9,711.0,2025-01-26,32080,Low Income,At Risk
+C1100,Delhi,Savings,Student,Yes,23,7500.0,5.0,20,613.0,2025-06-21,500,Low Income,At Risk
+C1005,Delhi,Savings,Self-Employed,Yes,60,94000.0,,42,586.0,2025-10-24,157780,High Income,Healthy
+C1232,Kolkata,Savings,Self-Employed,Yes,54,21000.0,11.9,21,740.0,2025-06-11,80850,Low Income,Healthy
+C1039,Mumbai,Savings,Student,Yes,22,8500.0,4.0,35,796.0,2025-01-17,25970,Low Income,At Risk
+C1043,Mumbai,Savings,Self-Employed,Yes,61,59000.0,16.7,29,711.0,2025-05-10,133950,Medium Income,Healthy
+C1004,Delhi,Savings,Retired,Yes,61,19500.0,12.7,43,620.0,2026-08-24,72780,Low Income,Healthy
+C1200,Mumbai,Salary,,No,21,12000.0,3.0,39,636.0,2026-04-13,34090,Low Income,At Risk
+C1242,Delhi,Savings,Salaried,No,55,21500.0,2.2,33,638.0,2025-02-26,130260,Low Income,Healthy
+C1145,Mumbai,Savings,Salaried,Yes,37,43500.0,16.0,20,552.0,2026-07-24,56750,Medium Income,Healthy
+C1059,Mumbai,Current,Self-Employed,Yes,26,27500.0,8.0,38,683.0,2025-12-07,152830,Low Income,Healthy
+C1103,Delhi,Savings,Salaried,No,48,,10.2,5,663.0,2025-03-14,54330,Low Income,Healthy
+C1183,Delhi,Salary,Salaried,Yes,46,30000.0,14.2,35,688.0,2025-12-10,110680,Low Income,Healthy
+C1208,Delhi,Savings,Self-Employed,Yes,40,36000.0,1.2,7,773.0,2026-08-08,114070,Low Income,Healthy
+C1207,Mumbai,Savings,Salaried,No,46,48500.0,2.6,41,785.0,2026-10-13,64800,Medium Income,Healthy
+C1006,Kolkata,Savings,Student,Yes,19,14000.0,1.0,24,639.0,2024-12-25,84400,Low Income,Healthy
+C1154,Lucknow,Savings,Salaried,Yes,29,79000.0,9.8,28,821.0,2025-04-13,67300,High Income,Healthy
+C1099,Bengaluru,Savings,Salaried,Yes,50,46500.0,1.5,21,797.0,2025-04-18,67540,Medium Income,Healthy
+C1124,Lucknow,Salary,Salaried,Yes,23,83500.0,4.5,11,629.0,2025-08-07,158830,High Income,Healthy
+C1220,Delhi,Savings,Retired,Yes,72,43500.0,16.8,7,677.0,2026-04-01,123140,Medium Income,Healthy
+C1038,Bengaluru,Salary,,Yes,30,38000.0,10.4,36,704.0,2024-11-23,71240,Low Income,Healthy
+C1118,Delhi,Savings,Salaried,Yes,42,42000.0,3.6,28,780.0,2025-03-30,500,Medium Income,At Risk
+C1194,Kolkata,Salary,Retired,Yes,58,36500.0,13.3,35,703.0,2025-12-18,120470,Low Income,Healthy
+C1010,Bengaluru,Savings,Salaried,No,23,41000.0,5.0,28,641.0,2025-10-17,144360,Medium Income,Healthy
+C1177,Kolkata,Savings,Self-Employed,Yes,48,,14.2,40,698.0,2025-06-16,184830,Low Income,Healthy
+C1172,Bengaluru,Savings,Self-Employed,Yes,57,64500.0,17.3,33,752.0,2026-08-13,133290,Medium Income,Healthy
+C1108,Delhi,Savings,Self-Employed,No,58,137500.0,11.1,39,677.0,2025-10-25,144370,High Income,Healthy
+C1019,Bengaluru,Savings,Student,Yes,18,5000.0,0.5,29,745.0,2024-11-19,35070,Low Income,At Risk
+C1186,Delhi,Savings,Salaried,Yes,23,27500.0,5.0,10,518.0,2024-12-02,19590,Low Income,At Risk
+C1190,Lucknow,Current,Student,Yes,20,7500.0,2.0,17,699.0,2026-08-03,41350,Low Income,Healthy
+C1134,Delhi,Salary,Self-Employed,No,42,27000.0,8.7,21,581.0,2025-09-14,129010,Low Income,Healthy
+C1229,Bengaluru,Savings,Self-Employed,Yes,26,51500.0,2.3,39,723.0,2025-08-27,5480,Medium Income,At Risk
+C1092,Kolkata,Savings,Salaried,No,56,16500.0,0.9,15,650.0,2026-10-24,44950,Low Income,Healthy
+C1071,Kolkata,Savings,Retired,Yes,58,37500.0,3.1,16,756.0,2025-03-16,51230,Low Income,Healthy
+C1205,Delhi,Savings,Salaried,Yes,54,54000.0,5.4,22,768.0,2024-11-29,111350,Medium Income,Healthy
+C1033,Delhi,Savings,Salaried,Yes,40,22500.0,2.3,28,659.0,2026-01-06,76810,Low Income,Healthy
+C1168,Mumbai,Savings,Self-Employed,Yes,50,45500.0,2.5,34,774.0,2025-06-01,61550,Medium Income,Healthy
+C1240,Mumbai,Savings,Retired,Yes,64,29000.0,9.9,21,668.0,2025-07-17,49060,Low Income,Healthy
+C1011,Delhi,Current,Salaried,Yes,51,38000.0,6.4,42,645.0,2026-09-23,71280,Low Income,Healthy
+C1161,Delhi,Salary,Student,Yes,20,12500.0,2.0,25,698.0,2025-08-11,29150,Low Income,At Risk
+C1155,Mumbai,Savings,,Yes,51,46500.0,4.7,24,601.0,2026-04-24,71220,Medium Income,Healthy
+C1021,Mumbai,Salary,Self-Employed,Yes,53,44000.0,15.0,26,720.0,2025-10-01,190310,Medium Income,Healthy
+C1082,Lucknow,Savings,Student,No,24,9000.0,6.0,43,761.0,2026-02-20,30470,Low Income,At Risk
+C1188,Bengaluru,Savings,Student,Yes,22,6500.0,4.0,38,791.0,2026-09-04,500,Low Income,At Risk
+C1037,Lucknow,Savings,Salaried,Yes,30,54000.0,12.0,30,776.0,2025-04-13,73480,Medium Income,Healthy
+C1001,Delhi,Savings,Self-Employed,No,60,43000.0,14.6,29,675.0,2025-11-16,71340,Medium Income,Healthy
+C1141,Mumbai,Savings,Self-Employed,No,57,56000.0,4.1,46,706.0,2026-09-03,83910,Medium Income,Healthy
+C1197,Delhi,Current,Retired,Yes,68,26000.0,5.1,36,,2026-04-29,141840,Low Income,Healthy
+C1185,Mumbai,Savings,Retired,No,64,26000.0,10.7,27,667.0,2026-01-29,8800,Low Income,At Risk
+C1147,Kolkata,Salary,Self-Employed,Yes,61,55500.0,6.0,27,763.0,2025-06-27,500,Medium Income,At Risk
+C1080,Bengaluru,Savings,Salaried,Yes,39,68000.0,17.6,22,695.0,2024-12-18,101200,Medium Income,Healthy
+C1245,Mumbai,Savings,Self-Employed,Yes,51,29000.0,11.5,23,680.0,2024-12-08,64880,Low Income,Healthy
+C1025,Delhi,Current,Retired,Yes,78,22500.0,5.2,17,783.0,2024-12-30,144010,Low Income,Healthy
+C1015,Lucknow,Savings,Retired,No,76,34500.0,4.3,41,760.0,2025-12-28,115360,Low Income,Healthy
+C1129,Kolkata,Savings,Self-Employed,No,28,13000.0,10.0,26,,2026-06-01,83470,Low Income,Healthy
+C1090,Kolkata,Current,Retired,Yes,66,32000.0,6.2,15,761.0,2026-09-08,92020,Low Income,Healthy
+C1180,Bengaluru,Salary,Self-Employed,Yes,44,42500.0,3.0,29,724.0,2025-05-03,20550,Medium Income,At Risk
+C1066,Kolkata,Savings,Student,Yes,18,14000.0,0.5,60,786.0,2025-06-18,57410,Low Income,Healthy
+C1085,Lucknow,Savings,Self-Employed,Yes,54,68500.0,7.3,8,753.0,2025-02-01,155450,Medium Income,Healthy
+C1241,Bengaluru,Current,Salaried,Yes,54,37000.0,5.6,40,690.0,2025-04-07,171000,Low Income,Healthy
+C1224,Mumbai,Savings,Self-Employed,Yes,24,,6.0,13,712.0,2025-10-11,11880,Low Income,At Risk
+C1137,Mumbai,Savings,Salaried,Yes,49,39000.0,15.3,27,592.0,2025-07-11,98020,Low Income,Healthy
+C1057,Delhi,Savings,Salaried,No,23,44000.0,5.0,33,643.0,2025-08-05,500,Medium Income,At Risk
+C1044,Delhi,Salary,Retired,No,71,42500.0,6.5,32,624.0,2026-08-11,112280,Medium Income,Healthy
+C1012,Bengaluru,Savings,Student,Yes,24,10000.0,1.0,23,648.0,2026-03-11,12980,Low Income,At Risk
+C1034,Mumbai,Salary,Student,No,23,11000.0,3.8,42,893.0,2025-08-01,62400,Low Income,Healthy
+C1078,Bengaluru,Salary,Retired,Yes,63,43500.0,11.3,27,720.0,2026-08-29,2360,Medium Income,At Risk
+C1026,Delhi,Savings,Self-Employed,Yes,51,26500.0,3.4,13,649.0,2026-03-03,43140,Low Income,Healthy
+C1121,Mumbai,Savings,Salaried,Yes,41,27000.0,10.1,17,663.0,2026-01-18,33770,Low Income,At Risk
+C1061,Bengaluru,Savings,Self-Employed,No,61,126500.0,3.1,24,672.0,2026-08-23,151760,High Income,Healthy
+C1156,Mumbai,Savings,Self-Employed,No,48,45500.0,12.1,52,,2025-03-02,119810,Medium Income,Healthy
+C1068,Delhi,Current,Student,Yes,23,9000.0,5.0,10,700.0,2025-02-12,7810,Low Income,At Risk
+C1235,Bengaluru,Savings,Student,No,19,6000.0,1.0,11,770.0,2025-12-15,36610,Low Income,At Risk
+C1127,Bengaluru,Current,Self-Employed,No,54,29000.0,15.9,13,698.0,2024-12-30,174260,Low Income,Healthy
+C1031,Bengaluru,Savings,Salaried,Yes,39,111500.0,1.1,31,658.0,2026-05-25,60630,High Income,Healthy
+C1063,Bengaluru,Salary,Salaried,Yes,22,52000.0,4.0,14,695.0,2025-01-08,6250,Medium Income,At Risk
+C1096,Delhi,Salary,Retired,Yes,74,28500.0,8.3,31,511.0,2025-04-20,66130,Low Income,Healthy
+C1060,Bengaluru,Current,Self-Employed,No,35,74500.0,6.2,22,684.0,2026-06-13,88950,Medium Income,Healthy
+C1053,Lucknow,Savings,Salaried,Yes,-27,61000.0,2.5,34,763.0,2025-01-06,8730,Medium Income,At Risk
+C1144,Mumbai,Salary,Self-Employed,Yes,57,45000.0,1.8,30,695.0,2025-02-20,77990,Medium Income,Healthy
+C1070,Bengaluru,Salary,Student,Yes,21,11000.0,0.6,3,758.0,2026-08-28,11730,Low Income,At Risk
+C1174,Delhi,Savings,Salaried,Yes,24,71500.0,6.0,38,721.0,2025-02-21,100640,Medium Income,Healthy
+C1128,Mumbai,Savings,Salaried,Yes,44,61000.0,4.7,60,714.0,2026-06-15,133290,Medium Income,Healthy
+C1097,Bengaluru,Salary,Student,No,20,8000.0,2.0,37,727.0,2025-11-26,55950,Low Income,Healthy
+C1112,Kolkata,Salary,Student,Yes,20,13000.0,2.0,42,649.0,2026-09-12,500,Low Income,At Risk
+C1027,Mumbai,Savings,Salaried,No,51,76000.0,6.4,21,703.0,2024-12-08,80250,High Income,Healthy
+C1201,Mumbai,Salary,Salaried,Yes,41,30000.0,14.8,15,681.0,2026-08-03,55910,Low Income,Healthy
+C1122,Mumbai,Salary,Student,Yes,20,13000.0,2.0,27,698.0,2025-10-06,16140,Low Income,At Risk
+C1153,Mumbai,Savings,Retired,Yes,71,42500.0,15.6,35,664.0,2025-08-14,122730,Medium Income,Healthy
+C1231,Mumbai,Current,Retired,Yes,66,18500.0,2.2,28,698.0,2025-12-07,29010,Low Income,At Risk
+C1107,Delhi,Current,Salaried,Yes,51,68500.0,13.4,5,652.0,2026-01-06,201070,Medium Income,Healthy
+C1169,Lucknow,Savings,Self-Employed,Yes,45,50000.0,2.2,26,644.0,2026-03-06,7190,Medium Income,At Risk
+C1054,Lucknow,Savings,Student,Yes,23,14500.0,5.0,39,725.0,2025-11-01,59280,Low Income,Healthy
+C1036,Lucknow,Current,Student,Yes,18,10500.0,,18,605.0,2026-01-17,5790,Low Income,At Risk
+C1133,Delhi,Savings,Salaried,Yes,33,22500.0,1.5,32,785.0,2026-10-20,20550,Low Income,At Risk
+C1132,Mumbai,Current,Salaried,Yes,55,34500.0,15.5,22,756.0,2026-07-27,183840,Low Income,Healthy
+C1116,Kolkata,Savings,Self-Employed,Yes,42,27000.0,8.3,45,619.0,2026-06-10,25810,Low Income,At Risk
+C1062,Delhi,Savings,Retired,Yes,66,33000.0,4.1,20,788.0,2026-05-23,48360,Low Income,Healthy
+C1029,Delhi,Savings,Retired,Yes,70,37500.0,8.8,7,750.0,2024-12-25,44810,Low Income,Healthy
+C1215,Bengaluru,Savings,Salaried,No,55,54000.0,15.8,37,757.0,2025-06-10,82750,Medium Income,Healthy
+C1020,Kolkata,Savings,Self-Employed,Yes,49,65000.0,7.9,12,704.0,2025-12-25,108530,Medium Income,Healthy
+C1191,Mumbai,Savings,Student,No,18,6000.0,0.5,3,680.0,2026-06-23,500,Low Income,At Risk
+C1093,Lucknow,Savings,Self-Employed,No,24,30000.0,6.0,16,728.0,2026-03-28,1380,Low Income,At Risk
+C1069,Mumbai,Salary,Salaried,No,50,79000.0,9.6,24,665.0,2025-06-04,105140,High Income,Healthy
+C1167,Mumbai,Salary,Self-Employed,Yes,26,47000.0,8.0,30,579.0,2026-05-12,170140,Medium Income,Healthy
+C1162,Bengaluru,Current,Salaried,No,30,94000.0,12.0,16,694.0,2026-10-07,212530,High Income,Healthy
+C1165,Delhi,Current,Salaried,Yes,33,18000.0,12.0,58,775.0,2025-01-15,90720,Low Income,Healthy
+C1109,Delhi,Salary,Salaried,No,44,70500.0,17.4,36,730.0,2025-06-22,102000,Medium Income,Healthy
+C1225,Mumbai,Salary,Salaried,Yes,49,65000.0,3.8,11,681.0,2026-06-10,64300,Medium Income,Healthy
+C1218,Kolkata,Savings,Student,Yes,19,14500.0,1.0,44,645.0,2026-01-25,10270,Low Income,At Risk
+C1223,Delhi,Current,Self-Employed,Yes,49,12500.0,9.6,19,682.0,2026-05-26,134000,Low Income,Healthy
+C1051,Bengaluru,Savings,Salaried,Yes,53,48000.0,5.4,30,695.0,2025-06-18,108400,Medium Income,Healthy
+C1139,Lucknow,Salary,Student,Yes,23,11000.0,5.0,32,674.0,2025-10-16,29590,Low Income,At Risk
+C1138,Delhi,Savings,Self-Employed,Yes,28,47000.0,3.9,40,731.0,2025-04-17,500,Medium Income,At Risk
+C1089,Kolkata,Savings,Self-Employed,No,57,62500.0,6.3,39,648.0,2025-05-20,58960,Medium Income,Healthy
+C1047,Bengaluru,Salary,Retired,Yes,74,19000.0,8.9,29,702.0,2026-03-01,25240,Low Income,At Risk
+C1076,Delhi,Savings,Salaried,No,29,49500.0,11.0,25,626.0,2025-04-28,46080,Medium Income,Healthy
+C1008,Delhi,Savings,Salaried,No,49,27500.0,11.7,27,826.0,2025-03-11,107430,Low Income,Healthy
+C1236,Bengaluru,Salary,Student,Yes,20,8000.0,0.9,16,794.0,2025-05-04,12150,Low Income,At Risk
+C1018,Bengaluru,Salary,Salaried,Yes,45,53000.0,13.9,39,726.0,2026-05-28,147240,Medium Income,Healthy
+C1214,Delhi,Savings,Salaried,Yes,23,52000.0,5.0,23,804.0,2026-02-04,68700,Medium Income,Healthy
+C1210,Delhi,Current,Self-Employed,Yes,53,112000.0,7.1,34,748.0,2026-07-26,209610,High Income,Healthy
+C1023,Mumbai,Savings,Salaried,Yes,34,25000.0,3.6,16,762.0,2026-10-02,500,Low Income,At Risk
+C1091,Mumbai,Current,Salaried,Yes,32,47500.0,7.4,33,751.0,2025-04-20,158360,Medium Income,Healthy
+C1045,Bengaluru,Savings,Salaried,Yes,50,26500.0,3.9,35,696.0,2024-12-08,92410,Low Income,Healthy
+C1211,Mumbai,Current,Salaried,Yes,54,35500.0,15.8,17,675.0,2026-03-09,130590,Low Income,Healthy
+C1075,Lucknow,Salary,Student,Yes,18,13000.0,0.5,10,706.0,2026-08-08,30340,Low Income,At Risk
+C1250,Delhi,Savings,Student,No,22,9000.0,4.0,36,753.0,2025-04-29,60800,Low Income,Healthy
+C1239,Mumbai,Salary,Self-Employed,Yes,54,33500.0,5.2,52,746.0,2025-02-14,43890,Low Income,Healthy
+C1216,Mumbai,Current,Salaried,Yes,35,42000.0,4.6,31,766.0,2026-02-17,134550,Medium Income,Healthy
+C1243,Mumbai,Savings,Salaried,Yes,45,40000.0,7.1,29,736.0,2024-12-09,67080,Medium Income,Healthy
+C1111,Delhi,Salary,Retired,Yes,59,25000.0,1.5,33,825.0,2026-02-21,500,Low Income,At Risk
+C1088,Lucknow,Savings,Student,No,21,14500.0,3.0,14,653.0,2025-09-19,9850,Low Income,At Risk
+C1131,Kolkata,Salary,Salaried,No,55,36500.0,17.9,27,640.0,2025-10-30,130560,Low Income,Healthy
+C1046,Bengaluru,Current,Salaried,Yes,56,47500.0,16.5,41,684.0,2026-01-31,185270,Medium Income,Healthy
+C1083,Delhi,Savings,Self-Employed,No,58,52000.0,2.0,37,651.0,2024-12-16,103240,Medium Income,Healthy
+C1158,Delhi,Salary,Salaried,No,22,45500.0,4.0,30,679.0,2025-05-13,78040,Medium Income,Healthy
+C1192,Delhi,Savings,Retired,No,69,24500.0,15.4,34,766.0,2024-12-06,83170,Low Income,Healthy
+C1217,Bengaluru,Salary,Retired,No,63,29500.0,17.2,37,761.0,2026-08-29,126760,Low Income,Healthy
+C1193,Mumbai,Salary,Self-Employed,No,56,63500.0,5.9,37,660.0,2026-10-21,90380,Medium Income,Healthy
+C1206,Lucknow,Salary,Self-Employed,Yes,34,71000.0,5.2,23,719.0,2026-07-15,128580,Medium Income,Healthy
+C1041,Delhi,Salary,Student,No,24,13000.0,6.0,57,650.0,2025-07-05,76740,Low Income,Healthy
+C1028,Delhi,Salary,Retired,No,59,16000.0,2.0,33,816.0,2026-02-25,36650,Low Income,At Risk
+C1143,Delhi,Savings,Salaried,Yes,52,81500.0,10.5,44,815.0,2026-09-12,126720,High Income,Healthy
+C1233,Delhi,Savings,Salaried,No,56,58500.0,7.3,18,691.0,2026-03-13,39380,Medium Income,At Risk
+C1244,Bengaluru,Current,Self-Employed,Yes,57,34000.0,1.3,30,677.0,2026-05-29,101440,Low Income,Healthy
+C1086,Mumbai,Savings,Self-Employed,No,33,35000.0,15.0,31,647.0,2026-04-15,158150,Low Income,Healthy
+C1198,Delhi,Savings,Salaried,Yes,38,49000.0,13.0,20,739.0,2026-08-04,95420,Medium Income,Healthy
+C1119,Kolkata,Salary,Retired,Yes,66,37500.0,13.8,32,719.0,2026-03-14,150410,Low Income,Healthy
+C1228,Lucknow,Savings,Self-Employed,Yes,46,125000.0,9.8,23,820.0,2025-10-25,93930,High Income,Healthy
+C1163,Kolkata,Savings,Salaried,No,23,54500.0,5.0,57,764.0,2025-03-24,126920,Medium Income,Healthy
+C1148,Mumbai,Current,Self-Employed,Yes,41,47000.0,4.2,29,787.0,2025-10-04,85240,Medium Income,Healthy
+C1084,Lucknow,Current,Self-Employed,No,30,36000.0,1.7,15,717.0,2026-11-15,22100,Low Income,At Risk
+C1022,Mumbai,Savings,Self-Employed,No,57,46500.0,12.9,27,665.0,2025-02-04,81670,Medium Income,Healthy
+C1101,Lucknow,Savings,Salaried,No,53,28500.0,,20,674.0,2025-12-15,168000,Low Income,Healthy
+C1032,Mumbai,Savings,Salaried,No,33,151000.0,6.1,29,655.0,2026-01-26,150980,High Income,Healthy
+C1052,Mumbai,Salary,Salaried,Yes,46,50500.0,13.1,13,795.0,2025-07-29,148740,Medium Income,Healthy
+C1135,Delhi,Salary,Retired,Yes,67,24000.0,4.7,29,703.0,2026-08-29,47940,Low Income,Healthy
+C1014,Delhi,Savings,Salaried,No,47,27000.0,17.3,41,715.0,2024-12-04,143050,Low Income,Healthy
+C1104,Bengaluru,Salary,Salaried,No,37,27000.0,16.4,30,608.0,2026-08-16,96010,Low Income,Healthy
+C1159,Bengaluru,Savings,Self-Employed,Yes,41,59500.0,3.9,9,672.0,2026-04-10,151690,Medium Income,Healthy
+C1030,Bengaluru,Current,Self-Employed,No,40,51000.0,7.5,31,778.0,2026-11-11,124660,Medium Income,Healthy
+C1002,Bengaluru,Salary,Salaried,Yes,37,,10.7,48,711.0,2025-04-14,113910,Low Income,Healthy
+C1074,Lucknow,Current,Salaried,No,47,44000.0,7.6,18,690.0,2025-06-22,124780,Medium Income,Healthy
+C1113,Delhi,Savings,Self-Employed,Yes,49,57500.0,8.2,16,811.0,2025-03-02,88840,Medium Income,Healthy
+C1003,Bengaluru,Salary,Retired,Yes,78,41000.0,3.6,16,733.0,2025-04-14,28160,Medium Income,At Risk
+C1065,Delhi,Savings,Retired,No,70,33500.0,4.4,9,764.0,2026-04-12,113840,Low Income,Healthy
+C1140,Lucknow,Savings,Self-Employed,Yes,42,91000.0,,30,674.0,2026-02-10,107950,High Income,Healthy
+C1213,Bengaluru,Savings,,Yes,27,78000.0,4.9,38,824.0,2025-09-04,100070,High Income,Healthy
+C1095,Delhi,Salary,Salaried,Yes,34,33500.0,10.8,32,746.0,2026-05-15,109750,Low Income,Healthy
+C1125,Delhi,Current,Self-Employed,Yes,54,74500.0,0.8,34,842.0,2025-01-20,159670,Medium Income,Healthy
+C1176,Delhi,Current,Self-Employed,No,46,49500.0,10.5,51,702.0,2026-05-17,33640,Medium Income,At Risk
+C1204,Mumbai,Savings,Student,Yes,19,11000.0,1.0,45,785.0,2025-05-11,36190,Low Income,At Risk
+C1098,Bengaluru,Savings,Self-Employed,Yes,45,96000.0,1.2,17,735.0,2025-10-24,118930,High Income,Healthy
+C1171,Mumbai,Salary,Student,No,19,10500.0,1.0,50,743.0,2026-03-05,21500,Low Income,At Risk
+C1160,Delhi,Savings,Self-Employed,No,52,27500.0,0.6,37,627.0,2025-11-05,16770,Low Income,At Risk
+C1152,Delhi,Savings,Self-Employed,No,26,55000.0,8.0,3,760.0,2025-12-17,500,Medium Income,At Risk
+C1105,Mumbai,Salary,Student,Yes,23,6000.0,2.5,3,636.0,2025-01-03,3430,Low Income,At Risk
+C1064,Kolkata,Savings,Student,Yes,24,9500.0,6.0,30,559.0,2024-11-20,13290,Low Income,At Risk
+C1048,Mumbai,Savings,Salaried,Yes,43,83000.0,2.5,36,677.0,2025-07-21,64080,High Income,Healthy
+C1249,Bengaluru,Savings,Salaried,No,43,43500.0,17.3,41,708.0,2026-02-27,153950,Medium Income,Healthy
+C1009,Delhi,Savings,Student,Yes,24,13500.0,3.8,18,668.0,2025-08-07,60260,Low Income,Healthy
+C1007,Lucknow,Savings,Salaried,Yes,32,32000.0,13.4,20,685.0,2025-08-08,84410,Low Income,Healthy
+C1081,Delhi,Salary,Retired,Yes,73,16500.0,5.7,45,814.0,2026-09-13,64140,Low Income,Healthy
+C1117,Delhi,Savings,Student,Yes,22,8500.0,4.0,6,691.0,2025-09-03,500,Low Income,At Risk
+C1077,Delhi,Salary,Salaried,Yes,53,40000.0,4.9,26,569.0,2025-03-12,38710,Medium Income,At Risk
+C1219,Delhi,Savings,Self-Employed,Yes,48,113500.0,17.8,22,648.0,2026-01-09,187440,High Income,Healthy
+C1178,Bengaluru,Savings,Salaried,Yes,22,23500.0,4.0,39,724.0,2026-09-13,12570,Low Income,At Risk
+C1146,Delhi,Salary,Student,Yes,23,9000.0,0.9,14,,2026-09-11,10570,Low Income,At Risk
+C1123,Lucknow,Salary,Self-Employed,No,34,48000.0,0.6,32,,2026-02-26,126430,Medium Income,Healthy
+C1035,Mumbai,Savings,Retired,Yes,75,16500.0,8.9,31,725.0,2026-08-03,500,Low Income,At Risk
+C1106,Delhi,Savings,Student,Yes,22,7500.0,4.0,27,729.0,2025-02-01,78250,Low Income,Healthy
+C1142,Delhi,Savings,Student,Yes,19,5000.0,1.0,23,745.0,2025-08-26,500,Low Income,At Risk
+C1209,Bengaluru,Salary,Salaried,No,34,39000.0,9.3,24,596.0,2024-12-07,121250,Low Income,Healthy
+C1179,Delhi,Savings,Self-Employed,Yes,39,78000.0,15.2,25,684.0,2025-12-20,121070,High Income,Healthy
+C1184,Mumbai,Savings,Student,Yes,19,5500.0,1.0,15,628.0,2025-07-22,2560,Low Income,At Risk
+C1166,Delhi,Savings,Salaried,Yes,49,32500.0,13.0,29,618.0,2026-07-25,86580,Low Income,Healthy
